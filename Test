@@ -2,13 +2,10 @@
 <html lang="ja">
   <head>
     <meta charset="utf-8">
-    <title>title</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+    <title>何これ</title>
   </head>
   <body>
-    	<!-- page content -->
 	<h1>これは部活中に作られたサーバーです。</h1>
-  <p>これだけ</p>
-  </body>
+  	<p>これだけ</p>
+</body>
 </html>
